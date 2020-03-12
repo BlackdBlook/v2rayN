@@ -1,5 +1,5 @@
 # v2rayN
-
+#### 相较原版添加了将列表域名批量转化为IP的功能
 ### How to use
 - Download exe from release download
 - Also need to download v2ray core in the same folder
